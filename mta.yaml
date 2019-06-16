@@ -7,6 +7,7 @@ modules:
     path: web
     requires:
       - name: UAA-service
+<<<<<<< HEAD
 
   - name: db
     type: hdb
@@ -28,3 +29,10 @@ resources:
        hdi-container-name: ${service-name}
     type: com.sap.xs.hdi-container
 
+=======
+resources:
+  - name: UAA-service
+    type: com.sap.xs.uaa-space
+    parameters:
+      config-path: /xs-security.json
+>>>>>>> refs/heads/master
