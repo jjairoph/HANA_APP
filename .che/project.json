@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 {"type":"mta","builders":{"default":"mtabuilder","configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"hdbInactiveFiles\":{\"inactiveFileList\":[]}}"]},"mixinTypes":[]}
-=======
-{"type":"mta","builders":{"default":"mtabuilder","configs":{}},"runners":{"configs":{}},"attributes":{},"mixinTypes":[]}
->>>>>>> refs/heads/master
